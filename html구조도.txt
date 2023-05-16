@@ -1,0 +1,172 @@
+.container
+  section.info
+    .info-inner
+      .info-contents
+        .info-left
+          a*2
+        .info-right
+          a
+  header
+    .header-inner
+      .header-contents
+        .header-left
+          .logo>img
+        .gnb>a*5
+        .header-right
+          .header-search
+            input
+          a.header-btns
+            .header-btn1
+            .header-btn2
+
+  section.main
+    .main-inner
+      .main-left
+        .main-img-btn>span
+        .main-img-title>h1,span,p
+    .right>img
+  
+  section.main-goto
+    .main-goto-inner
+      .main-icons
+        .main-con
+          a>xeicon*3
+          a*8
+          xeicon
+
+  section.search
+    .search-inner
+      .search-top
+        input
+      .search-bottom
+        .search-contents
+          .search-content
+            img
+            p
+
+  section.free
+    .free-inner
+      .common-top
+        h1
+        xeicon
+        p
+      .free-bottom
+        .free-contents
+          .free-content
+            img
+            .free-title
+            .instructor
+            .star > xeicon
+            .price > span
+            .tags 
+              .tag>span
+  
+  section.starter
+    .starter-inner
+      .common-top
+        h1
+        xeicon
+        p
+      .starter-bottom
+        .starter-contents
+          .starter-content
+            img
+            .starter-title
+            .instructor
+            .star > xeicon
+            .price > span
+            .tags 
+              .tag>span
+            
+  section.loadmap
+  .loadmap-inner
+    .common-top
+      h1
+      xeicon
+      p
+    .loadmap-bottom
+      .loadmap-contents
+        .loadmap-content
+          img
+          .loadmap-title>h5
+          
+  section.read
+  .read-inner
+    .common-top
+      h1
+    .read-bottom
+      .read-contents
+        .read-content
+          img
+          .read-title
+          .read-text
+
+  section.new
+    .new-inner
+      .common-top
+        h1
+        xeicon
+        p
+      .new-bottom
+        .new-contents
+          .new-content
+            img
+            .new-title
+            .instructor
+            .star > xeicon
+            .price > span
+            .tags 
+              .tag>span
+
+  section.review
+    .reveiw-inner
+      .review-contents
+        .review-left
+          h1
+          p
+          .review-boxes
+            .review-box>span
+        .review-right
+          .review-desc*4
+            .review-desc-con
+              span>span
+              h2
+              p
+
+  section.banner
+    .banner-inner
+      .banner-contents
+        .banner-left
+          span
+          .banner-btn>a
+        .banner-right
+          img
+
+  section.group
+    .group-inner
+      .group-contents
+        h3
+        .group-img>img
+
+  section.apply
+    .apply-inner
+      .apply-contents
+        .apply-top
+          h1
+          p
+        .apply-bottom
+          h2
+          p
+          .apply-btn>span
+  
+  footer
+    .footer-inner
+      .footer-top
+        .footer-list
+          ul>li*5
+      .footer-bottom
+        .footer-left
+          .img>a*2
+          span
+        .footer-right
+          .footer-icon>xeicon
