@@ -534,7 +534,7 @@ input[type='text']:focus {
 /* ========== Section: banner ========== */
 .banner {
   padding: 24px;
-  background-image: url('/image/business.jpg');
+  background-image: url('../image/business.jpg');
   background-repeat: no-repeat;
   padding: 20px;
   background-color: #DBD4D9;
